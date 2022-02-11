@@ -8,7 +8,7 @@ configure credentials under the profile ~/.aws/credentials (aws cli profile)
 By default the scripts will generate the output of dryrun with 30 days.
 To check arguments --help 
 CSV will generate on the same location of the script. 
-
+Don't forget to add credentials on the file.
 '''
 import csv
 import jmespath
