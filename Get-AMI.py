@@ -10,6 +10,7 @@ To check arguments --help
 CSV will generate on the same location of the script. 
 Don't forget to add credentials on the file.
 '''
+import date
 import csv
 import jmespath
 import boto3
