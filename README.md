@@ -15,4 +15,5 @@ Make sure you installed the python modules as described in each of the python sc
 EIP and AMI : you can remove from your account by passing arguments.
 This is useful to track the expenses in AWS accounts, that we haven't aware the resources running in different region.
 
+# Need to workout git
 If you have any questions, please email me at : support@maplenetworks.ca
