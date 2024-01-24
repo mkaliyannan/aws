@@ -1,6 +1,6 @@
 '''
 Version : 1.0.0
-Credentials : it will get the credentials from aws profile. 
+MCredentials : it will get the credentials from aws profile. 
 Multiple profile: add muliple accesskey,with profile name. refer aws documentation for aws_profile.
 Region: It will look all regions within the account by default.
 For help: python3 Get-Snapshots.py --help
