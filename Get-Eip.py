@@ -5,7 +5,7 @@
 * For actionrelease the address please remove the comment on the line no 86.
 * Add this script to crontab to schedule the prefer duration
 '''
-import date
+
 import csv
 import jmespath
 import boto3
